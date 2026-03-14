@@ -1,4 +1,4 @@
-# render_farm_v1
+# render_farm_v1(still work underprogress)
 A simple LAN-based Blender render farm prototype that splits animation frames across multiple machines to render in parallel using a master–worker model.
 
 
